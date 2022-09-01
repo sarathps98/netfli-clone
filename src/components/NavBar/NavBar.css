@@ -1,0 +1,35 @@
+.navbar{
+    position:fixed;
+    top:0;
+    width: 100%;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+    margin-bottom: 30px;
+   
+}
+.navbar h3{
+    position: fixed;
+    left: 120px;
+    color: #fff;
+}
+.navbar h3:hover{
+    cursor: pointer;
+    transform: scale(1.09);
+    color:red
+}
+
+.logo{
+position: fixed;
+left: 20px;
+width: 80px;
+}
+
+.avatar {
+    position: fixed;
+    right: 20px;
+    width: 30px;
+}

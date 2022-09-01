@@ -1,0 +1,32 @@
+.genres{
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin-top: 50px;
+
+}
+ 
+ .genres .genres-posters{
+    width: 10rem;
+    height: 100px;
+    margin: 10px;
+    border-radius: 3px;
+    background-color:rgb(105, 14, 14);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.genres .genres-posters:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    background-color:rgb(155, 28, 28);
+}
+.genres img{
+    max-height: 200px;
+    margin: 10px;
+}
+
