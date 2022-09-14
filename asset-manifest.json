@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/netfli-clone/static/css/main.530df567.css",
-    "main.js": "/netfli-clone/static/js/main.e1b55a6e.js",
+    "main.js": "/netfli-clone/static/js/main.83fabd66.js",
     "index.html": "/netfli-clone/index.html",
     "main.530df567.css.map": "/netfli-clone/static/css/main.530df567.css.map",
-    "main.e1b55a6e.js.map": "/netfli-clone/static/js/main.e1b55a6e.js.map"
+    "main.83fabd66.js.map": "/netfli-clone/static/js/main.83fabd66.js.map"
   },
   "entrypoints": [
     "static/css/main.530df567.css",
-    "static/js/main.e1b55a6e.js"
+    "static/js/main.83fabd66.js"
   ]
 }
